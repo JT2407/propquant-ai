@@ -1,0 +1,7 @@
+{
+  "name": "PropQuant AI - Real Estate Analyst",
+  "description": "A production-grade real estate investment analysis tool that extracts property data from URLs and provides deep financial scoring and risk assessments using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
